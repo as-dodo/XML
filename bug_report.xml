@@ -1,1 +1,12 @@
-
+<bug_report>
+  
+  <id>A01</id>
+  <severity>Major</severity>
+  <priority>High</priority>
+  <title>Pushing the button buy a ticket</title>
+  <step1>Open the main page of the website blalala.rrr</step1>
+  <step2>Click the button Buy a ticket</step2>
+  <actualResult>Opening of the page with info about the exhibition</actualResult>
+  <expectedResult>Opening of the page with choosing a date and time of the exhibition to visit"</expectedResult>
+  
+</bug_report>
